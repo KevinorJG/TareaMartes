@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\Tareas_Programacion\FormsUIActivo.Infraestructure\obj\Debug\FormsUIActivo.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tareas_Programacion\FormsUIActivo.Infraestructure\obj\Debug\FormsUIActivo.Infraestructure.csproj.CoreCompileInputs.cache
