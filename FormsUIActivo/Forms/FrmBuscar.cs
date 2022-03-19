@@ -16,11 +16,11 @@ namespace FormsUIActivo.Forms
         {
             InitializeComponent();
         }
-
+       
         private void toolStripButton1_Click(object sender, EventArgs e)
         {
             this.Close();
-           
+
         }
     }
 }

@@ -11,3 +11,16 @@ C:\Users\User\Desktop\Tareas_Programacion\FormsUIActivo\obj\Debug\FormsUIActivo.
 C:\Users\User\Desktop\Tareas_Programacion\FormsUIActivo\obj\Debug\FormsUIActivo.exe
 C:\Users\User\Desktop\Tareas_Programacion\FormsUIActivo\obj\Debug\FormsUIActivo.pdb
 C:\Users\User\Desktop\Tareas_Programacion\FormsUIActivo\obj\Debug\FormsUIActivo.Forms.FrmBuscar.resources
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo\bin\Debug\FormsUIActivo.exe.config
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo\bin\Debug\FormsUIActivo.exe
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo\bin\Debug\FormsUIActivo.pdb
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.Forms.FrmActivo.resources
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.Forms.FrmBuscar.resources
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.Forms.FrmDepreciacion.resources
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.Properties.Resources.resources
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.exe
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.pdb

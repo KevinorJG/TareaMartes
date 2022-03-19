@@ -4,3 +4,9 @@ C:\Users\User\Desktop\Tareas_Programacion\FormsUIActivo.Domain\obj\Debug\FormsUI
 C:\Users\User\Desktop\Tareas_Programacion\FormsUIActivo.Domain\obj\Debug\FormsUIActivo.Domain.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Tareas_Programacion\FormsUIActivo.Domain\obj\Debug\FormsUIActivo.Domain.dll
 C:\Users\User\Desktop\Tareas_Programacion\FormsUIActivo.Domain\obj\Debug\FormsUIActivo.Domain.pdb
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo.Domain\bin\Debug\FormsUIActivo.Domain.dll
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo.Domain\bin\Debug\FormsUIActivo.Domain.pdb
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo.Domain\obj\Debug\FormsUIActivo.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo.Domain\obj\Debug\FormsUIActivo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo.Domain\obj\Debug\FormsUIActivo.Domain.dll
+C:\Users\User\Desktop\TareaMartes\FormsUIActivo.Domain\obj\Debug\FormsUIActivo.Domain.pdb
