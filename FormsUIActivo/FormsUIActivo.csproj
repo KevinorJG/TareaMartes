@@ -8,10 +8,11 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>FormsUIActivo</RootNamespace>
     <AssemblyName>FormsUIActivo</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -64,6 +65,12 @@
     <Compile Include="Forms\FrmDepreciacion.Designer.cs">
       <DependentUpon>FrmDepreciacion.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\FrmPapelera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmPapelera.Designer.cs">
+      <DependentUpon>FrmPapelera.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Forms\FrmActivo.resx">
@@ -74,6 +81,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\FrmDepreciacion.resx">
       <DependentUpon>FrmDepreciacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmPapelera.resx">
+      <DependentUpon>FrmPapelera.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -106,6 +116,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\previous.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Papelera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\destruir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reciclar.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

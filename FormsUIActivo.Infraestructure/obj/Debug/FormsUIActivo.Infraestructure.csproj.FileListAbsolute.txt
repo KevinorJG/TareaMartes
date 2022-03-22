@@ -2,3 +2,5 @@ C:\Users\User\Desktop\Tareas_Programacion\FormsUIActivo.Infraestructure\obj\Debu
 C:\Users\User\Desktop\Tareas_Programacion\FormsUIActivo.Infraestructure\obj\Debug\FormsUIActivo.Infraestructure.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\TareaMartes\FormsUIActivo.Infraestructure\obj\Debug\FormsUIActivo.Infraestructure.csproj.AssemblyReference.cache
 C:\Users\User\Desktop\TareaMartes\FormsUIActivo.Infraestructure\obj\Debug\FormsUIActivo.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo.Infraestructure\obj\Debug\FormsUIActivo.Infraestructure.csprojAssemblyReference.cache
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo.Infraestructure\obj\Debug\FormsUIActivo.Infraestructure.csproj.CoreCompileInputs.cache

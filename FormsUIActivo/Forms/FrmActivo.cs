@@ -50,5 +50,11 @@ namespace FormsUIActivo.Forms
             FrmDepreciacion window = new FrmDepreciacion();
             window.Show();
         }
+
+        private void ToolStripButton2_Click(object sender, EventArgs e)
+        {
+            FrmPapelera window = new FrmPapelera();
+            window.Show();
+        }
     }
 }

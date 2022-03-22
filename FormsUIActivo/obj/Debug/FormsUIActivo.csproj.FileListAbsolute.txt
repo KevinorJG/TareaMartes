@@ -24,3 +24,16 @@ C:\Users\User\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.csproj.G
 C:\Users\User\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.exe
 C:\Users\User\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.pdb
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo\bin\Debug\FormsUIActivo.exe.config
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo\bin\Debug\FormsUIActivo.exe
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo\bin\Debug\FormsUIActivo.pdb
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.csprojAssemblyReference.cache
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.Forms.FrmActivo.resources
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.Forms.FrmBuscar.resources
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.Forms.FrmDepreciacion.resources
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.Properties.Resources.resources
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.csproj.GenerateResource.cache
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.csproj.CoreCompileInputs.cache
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.exe
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.pdb
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo\obj\Debug\FormsUIActivo.Forms.FrmPapelera.resources

@@ -10,3 +10,8 @@ C:\Users\User\Desktop\TareaMartes\FormsUIActivo.Domain\obj\Debug\FormsUIActivo.D
 C:\Users\User\Desktop\TareaMartes\FormsUIActivo.Domain\obj\Debug\FormsUIActivo.Domain.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\TareaMartes\FormsUIActivo.Domain\obj\Debug\FormsUIActivo.Domain.dll
 C:\Users\User\Desktop\TareaMartes\FormsUIActivo.Domain\obj\Debug\FormsUIActivo.Domain.pdb
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo.Domain\bin\Debug\FormsUIActivo.Domain.dll
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo.Domain\bin\Debug\FormsUIActivo.Domain.pdb
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo.Domain\obj\Debug\FormsUIActivo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo.Domain\obj\Debug\FormsUIActivo.Domain.dll
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo.Domain\obj\Debug\FormsUIActivo.Domain.pdb

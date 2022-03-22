@@ -1,2 +1,4 @@
 C:\Users\User\Desktop\Tareas_Programacion\FormsUIActivo.AppCore\obj\Debug\FormsUIActivo.AppCore.csproj.AssemblyReference.cache
 C:\Users\User\Desktop\Tareas_Programacion\FormsUIActivo.AppCore\obj\Debug\FormsUIActivo.AppCore.csproj.CoreCompileInputs.cache
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo.AppCore\obj\Debug\FormsUIActivo.AppCore.csprojAssemblyReference.cache
+C:\Users\JADPA26\Desktop\TareaMartes\FormsUIActivo.AppCore\obj\Debug\FormsUIActivo.AppCore.csproj.CoreCompileInputs.cache
